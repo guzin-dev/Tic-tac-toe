@@ -4,4 +4,4 @@
 
 
 - Jogo da velha feito utilizando a biblioteca React e tailwind
-- Caso queira jogar este é o link: https://tic-tac-twcx4qb9m-gustavo-gtech.vercel.app/
+- <a target="_blank" href="https://tic-tac-twcx4qb9m-gustavo-gtech.vercel.app/">Quero jogar</a>
